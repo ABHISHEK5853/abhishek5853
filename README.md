@@ -1,11 +1,14 @@
-
 Hi there 👋
 
-I'm a Full-Stack Software Engineer with practical experience across backend, frontend, and cloud-based development. I enjoy building scalable, real-world applications and shipping clean, production-ready code. Here's what I bring to the table:
+I'm a Full-Stack Software Engineer with hands-on experience across backend, frontend, and cloud-based development. I enjoy building scalable, real-world applications and writing clean, production-ready code that solves real problems.
 
-💻 Full-Stack Development: Skilled in developing end-to-end web applications using Node.js, Express.js, NestJS, Next.js, Laravel, and more. From crafting responsive interfaces to building solid backend architectures
+### 💻 Full-Stack Development  
+Skilled in end-to-end web application development using **Node.js**, **Express.js**, **NestJS**, **Next.js**, **Laravel**, and more. Whether it's crafting responsive UIs or building robust backend systems, I focus on performance, maintainability, and developer experience.
 
-☁️ Cloud & Infrastructure: Comfortable working with AWS tools like Lambda, S3, and CloudWatch to create reliable, cloud-native solutions and automate deployment workflows.
+### ☁️ Cloud & Infrastructure  
+Comfortable working with **AWS** services like **Lambda**, **S3**, and **CloudWatch** to build reliable, cloud-native solutions. I also automate deployments and optimize infrastructure for scalability and resilience.
+
+---
 
 ## 🚀 Tech Stack
 
@@ -24,6 +27,3 @@ I'm a Full-Stack Software Engineer with practical experience across backend, fro
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-
-
