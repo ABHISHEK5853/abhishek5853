@@ -1,12 +1,12 @@
 Hi there 👋
 
-I'm a Full-Stack Software Engineer with hands-on experience across backend, frontend, and cloud-based development. I enjoy building scalable, real-world applications and writing clean, production-ready code that solves real problems.
+I'm a Full-Stack Software Engineer with hands-on experience across backend, frontend, and cloud-based development. I enjoy building scalable, real-world applications.
 
 ### 💻 Full-Stack Development  
-Skilled in end-to-end web application development using **Node.js**, **Express.js**, **NestJS**, **Next.js**, **Laravel**, and more. Whether it's crafting responsive UIs or building robust backend systems, I focus on performance, maintainability, and developer experience.
+Skilled in end-to-end web application development using **Node.js**, **Express.js**, **NestJS**, **Next.js**, **Laravel**, and more. Whether it's crafting responsive UIs or building robust backend systems.
 
 ### ☁️ Cloud & Infrastructure  
-Comfortable working with **AWS** services like **Lambda**, **S3**, and **CloudWatch** to build reliable, cloud-native solutions. I also automate deployments and optimize infrastructure for scalability and resilience.
+Comfortable working with **AWS** services like **Lambda**, **S3**, and **CloudWatch** to build reliable, cloud-native solutions.
 
 ---
 
