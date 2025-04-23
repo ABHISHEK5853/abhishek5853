@@ -15,7 +15,9 @@ Comfortable working with **AWS** services like **Lambda**, **S3**, and **CloudWa
 
 <!-- -->
  ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhishek5853&theme=github_dark)](https://git.io/streak-stats) ![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek5853&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhishek5853&theme=github_dark)](https://git.io/streak-stats) 
+
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek5853&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek5853&layout=compact&theme=dark)
 
